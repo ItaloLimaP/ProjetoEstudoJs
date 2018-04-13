@@ -1,7 +1,6 @@
 <template>
   <md-layout md-gutter>
-    <cad-pessoas></cad-pessoas>
-    <cad-eventos></cad-eventos>
+    <it-festa></it-festa>
   </md-layout>
 </template>
 <script>
