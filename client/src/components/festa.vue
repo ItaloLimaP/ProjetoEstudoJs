@@ -33,14 +33,14 @@
             </md-button>
           </md-table-cell>
         </md-table-row>
-      </md-table-body> 
+      </md-table-body>
     </md-table>
   </md-layout>
 </template>
 <script>
-const api = require("./api").pessoas
+const api = require("./api").festa
 module.exports = {
-  name: "CadPessoas",
+  name: "ItFesta",
   created() {
     this.list()
   },
